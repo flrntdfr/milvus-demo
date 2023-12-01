@@ -6,3 +6,4 @@ notebook/.cache
 notebook/.ipynb_checkpoints
 notebook/.ipython
 notebook/.jupyter
+notebook/.npm
