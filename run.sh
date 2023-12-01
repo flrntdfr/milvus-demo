@@ -1,5 +1,6 @@
 #!/bin/bash
 
+curl -fsSL https://get.docker.com | bash
 docker compose up -d
 
 NOTEBOOK=`docker compose exec notebook jupyter notebook list`
